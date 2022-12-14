@@ -1,0 +1,6 @@
+clickhouse-driver==0.2.5
+Faker==14.2.0
+more-itertools==8.14.0
+python-dateutil==2.8.2
+aiochclient[aiohttp]==2.2.0  # наверно лучше попробовать https://github.com/long2ice/asynch
+# aiochclient[httpx]
